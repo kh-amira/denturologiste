@@ -507,7 +507,6 @@
   width: 570px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-scale: 1;
-  height: auto;
   margin: -191px auto 60px calc(((100% - 1140px) / 2));
 }
 
@@ -560,7 +559,6 @@
     --animation-custom_in-rotate: 0deg;
     margin-top: -127px;
     margin-left: calc(((100% - 940px) / 2));
-    height: auto;
   }
 }
 
